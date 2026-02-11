@@ -1,0 +1,9 @@
+algo=algo1 fichier=fichier1.txt nbmots=74 temps=0.000270 max_alloc=20800 cumul_alloc=23400 cumul_desalloc=2600
+algo=algo1 fichier=fichier2.txt nbmots=477 temps=0.001192 max_alloc=166400 cumul_alloc=252200 cumul_desalloc=85800
+algo=algo1 fichier=fichier3.txt nbmots=1061 temps=0.004175 max_alloc=332800 cumul_alloc=585000 cumul_desalloc=252200
+algo=algo2 fichier=fichier1.txt nbmots=74 temps=0.000228 max_alloc=20800 cumul_alloc=23400 cumul_desalloc=2600
+algo=algo2 fichier=fichier2.txt nbmots=477 temps=0.001504 max_alloc=166400 cumul_alloc=252200 cumul_desalloc=85800
+algo=algo2 fichier=fichier3.txt nbmots=1061 temps=0.005724 max_alloc=332800 cumul_alloc=585000 cumul_desalloc=252200
+algo=algo3 fichier=fichier1.txt nbmots=74 temps=0.000259 max_alloc=119424 cumul_alloc=122024 cumul_desalloc=2600
+algo=algo3 fichier=fichier2.txt nbmots=477 temps=0.000567 max_alloc=333820 cumul_alloc=336420 cumul_desalloc=2600
+algo=algo3 fichier=fichier3.txt nbmots=1061 temps=0.001202 max_alloc=644508 cumul_alloc=647108 cumul_desalloc=2600
